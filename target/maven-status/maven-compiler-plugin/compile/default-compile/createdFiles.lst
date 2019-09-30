@@ -1,0 +1,7 @@
+com\example\university\domain\Student.class
+com\example\university\domain\Department.class
+com\example\university\UniversityApplication.class
+com\example\university\repo\DepartmentRepository.class
+com\example\university\domain\Course.class
+com\example\university\repo\StudentRepository.class
+com\example\university\domain\Person.class
